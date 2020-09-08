@@ -80,9 +80,8 @@ body {
   right: 1rem;
 }
 
-.accordion-item-header .active::after {
+.active::after {
   content: "\2212";
-  content: "\002B";
   font-size: 2rem;
   position: absolute;
   right: 1rem;
